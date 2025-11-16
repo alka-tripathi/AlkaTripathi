@@ -16,58 +16,6 @@ Currently exploring Backend Development, Java DSA, and Full-Stack Development.
 
 💡 Love turning ideas into working solutions
 
-💼 Projects
-🔐 File Fortress – A File Security System
-
-Built with Java (Swing GUI)
-
-Helps users organize and secure their files
-
-Worked with teammates Shivaansh, Shreya, under guide Dinesh Kushwaha
-
-💧 JalSaafTech – Smart Water Purification System
-
-Developed for the Technovation Hackathon
-
-Real-time water quality monitoring
-
-Worked as Frontend Developer
-
-Selected among top 50 teams out of 600+
-
-🧑‍🎓 Student Records Management App
-
-MERN + Node.js + Express
-
-Add, view, delete student records
-
-Currently building the full-stack version
-
- 🛠️ Tech Stack
-Languages
-
-Java
-
-JavaScript
-
-Python (basic)
-
-Web Development
-
-HTML, CSS
-
-React (learning)
-
-Node.js, Express
-
-MongoDB
-
-Tools & Platforms
-
-Git & GitHub
-
-VS Code
-
-Postman
+ **My Leetcode Profile**
 
 ![](https://leetcard.jacoblin.cool/alka_tripathi?ext=heatmap)
