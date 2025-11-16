@@ -1,4 +1,4 @@
-🌟 ## Hi, I'm Alka Tripathi
+🌟 ** Hi, I'm Alka Tripathi**
 B.Tech (3rd Year) | Developer | Learner | Problem Solver
 
 I'm an enthusiastic software developer passionate about building real-world applications, solving DSA problems, and continuously improving my skills.
