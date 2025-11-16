@@ -43,7 +43,7 @@ Add, view, delete student records
 
 Currently building the full-stack version
 
-🛠️ Tech Stack
+ 🛠️ Tech Stack
 Languages
 
 Java
@@ -69,3 +69,5 @@ Git & GitHub
 VS Code
 
 Postman
+
+![](https://leetcard.jacoblin.cool/alka_tripathi?ext=heatmap)
